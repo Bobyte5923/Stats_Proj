@@ -1,9 +1,0 @@
-Pollution de l'air
-
-Réseau national d'observation des polluants atmosphériques (NABEL):
-
-Ce réseau surveille la qualité de l'air à 16 stations réparties sur tout le territoire suisse. Il fournit des données sur les principaux polluants atmosphériques tels que les particules fines (PM10), le dioxyde d'azote (NO₂) et l'ozone (O₃).
-
-https://opendata.swiss/fr/dataset/nationales-beobachtungsnetz-fur-luftfremdstoffe-nabel-stationen/resource/354de390-83f1-491f-bb86-2dc7f1762f2b
-
-https://www.bafu.admin.ch/bafu/fr/home/etat/donnees/geodonnees/geodonnees.html
