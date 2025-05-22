@@ -1,9 +1,6 @@
-Répartition des jeux par année de sortie.
 
-Nombre de jeux par genre.
+Nombre de jeux par genre. ok
 
-Jeux les plus joués.
+Jeux les plus joués. ok
 
-Comparaison des notes entre les genres AAA et indés.
-
-Corrélation entre la date de sortie et la popularité.
+Corrélation entre la date de sortie et ~reviews/plays. ok 
