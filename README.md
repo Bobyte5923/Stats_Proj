@@ -1,5 +1,3 @@
-#README
-
 ## Instructions
 - Le notebook **`Projet.ipynb`** doit contenir :
   - Chargement et préparation des données
@@ -22,3 +20,7 @@
 ## Dépendances
 
 pip install pandas matplotlib ipywidgets kaggle
+
+## Auteurs
+Rafael Teixeira & Ayman Akram
+Encadré par : Professeur-e HES Monsieur Le Callennec
