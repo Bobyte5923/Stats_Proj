@@ -4,3 +4,8 @@
 2. Jeux les plus joués. ok
 
 3. Corrélation entre la date de sortie et ~reviews/plays. ok 
+
+
+Problèmes:
+- scrapper le fichier csv demande des manipulations potentiellement fastidieuse (cherche une api etc)
+Option viable : fichier en local founit ?
