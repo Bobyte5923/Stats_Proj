@@ -1,6 +1,6 @@
 
-Nombre de jeux par genre. ok
+1. Nombre de jeux par genre. ok
 
-Jeux les plus joués. ok
+2. Jeux les plus joués. ok
 
-Corrélation entre la date de sortie et ~reviews/plays. ok 
+3. Corrélation entre la date de sortie et ~reviews/plays. ok 
