@@ -23,4 +23,4 @@ pip install pandas matplotlib ipywidgets kaggle
 
 ## Auteurs
 Rafael Teixeira & Ayman Akram
-Encadré par : Professeur-e HES Monsieur Le Callennec
+Encadré par : Professeur HES Monsieur Le Callennec
