@@ -34,13 +34,6 @@ Voir requirements.txt
 
 . Dataset :[Popular Video Games - Backloggd](https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games), fichier CSV
 
-## Ressources utilisées pour le projet
-- https://numpy.org/doc/stable/
-- https://pandas.pydata.org/docs/user_guide/index.html
-- https://matplotlib.org/stable/index.html
-- https://www.w3schools.com/python/matplotlib_plotting.asp
-- https://chatgpt.com
-
 ## Analyses à faire 
 1. Nombre de jeux par genre
 2. Jeux les plus joués
