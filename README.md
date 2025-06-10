@@ -19,6 +19,7 @@ Voir requirements.txt
 - matplotlib
 - ipywidgets
 - kaggle
+- kagglehub
 
 ## Instructions
 - Le notebook **`Projet.ipynb`** doit contenir :
@@ -32,7 +33,7 @@ Voir requirements.txt
 
 ## Source des données
 
-. Dataset :[Popular Video Games - Backloggd](https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games), fichier CSV
+Dataset : [Popular Video Games - Backloggd](https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games), fichier CSV
 
 ## Analyses à faire 
 1. Nombre de jeux par genre
