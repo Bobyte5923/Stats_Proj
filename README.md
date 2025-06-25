@@ -29,13 +29,6 @@ Voir requirements.txt
   - Résumé des résultats
   - Limites et perspectives
 
-
 ## Source des données
 
 . Dataset :[Popular Video Games - Backloggd](https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games), fichier CSV
-
-## Analyses à faire 
-1. Nombre de jeux par genre
-2. Jeux les plus joués
-3. Corrélation entre la date de sortie et ~reviews/plays.
-
